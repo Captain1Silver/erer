@@ -1,3 +1,18 @@
-body {background-color: lightblue;}
-h1 {color: white; text-align: center;}
-p {color: red;font-family: comicsans;font-size: 20px;}
+body {
+  background-color: #520085;
+}
+
+.heading-red {
+  color: #850000;
+  text-align: center;
+}
+
+.heading-white {
+  color: #fff;
+}
+
+.jeding-red {
+  color: #850000;
+  font-family: comicsans;
+  font-size: 20px;
+}
